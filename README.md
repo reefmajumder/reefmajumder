@@ -9,4 +9,3 @@
 
 * #### 💬 Ask me about self driving cars and space travel.
 
-* #### ⚡ Fun fact: I like good stationery and write with fountain pens.
