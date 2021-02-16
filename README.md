@@ -5,7 +5,7 @@
 
 * #### 🌱 I’m currently learning about depth estimation using openCV.
 
-* #### 👯 I’m looking to collaborate on open source tools that empower individuals to solve problems and learn.
+* #### 👯 I’m looking to collaborate on deep learning projects and open source tools that empower individuals to solve problems.
 
 * #### 💬 Ask me about self driving cars and space travel.
 
