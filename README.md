@@ -1,5 +1,5 @@
 ### Hi there 👋
-"Instructions for living a life. Pay attention. Be astonished. Tell about it." -- Mary Oliver 
+#### "Instructions for living a life. Pay attention. Be astonished. Tell about it." -- Mary Oliver 
 
 * #### 🔭 I'm currently working on applying deep learning methods to solve real world problems.
 
