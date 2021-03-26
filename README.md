@@ -7,5 +7,5 @@
 
 * #### 👯 Looking to collaborate on deep learning projects, open source tools that empower individuals to solve problems, and add stronger meaning to life.
 
-* #### 💬 Interests: Self-driving cars, Space Travel
+* #### 💬 Interests: Self-driving cars, Space Travel.
 
