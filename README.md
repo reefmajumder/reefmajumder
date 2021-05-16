@@ -5,7 +5,7 @@
 
 * #### 🌱 Currently learning about depth estimation using openCV.
 
-* #### 👯 Looking to collaborate on deep learning projects, open source tools that empower individuals to solve problems that add meaning to life.
+* #### 👯 Looking to collaborate on data science projects, deep learning projects, and open source tools that empower individuals to solve problems that add meaning to life.
 
 * #### 💬 Interests: Self-driving cars, Space Travel.
 
